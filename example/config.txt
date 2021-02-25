@@ -1,0 +1,2 @@
+Prefix plugins/QualityProfile/example
+Plugin QualityProfile inputfile filtered outputfile quality
