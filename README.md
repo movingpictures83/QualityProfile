@@ -1,0 +1,2 @@
+# QualityProfile
+Sequence quality statistics
